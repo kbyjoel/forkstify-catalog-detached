@@ -21,4 +21,6 @@ links = [
   { to = "pj-harvey", type = "similar" },
   { to = "beth-gibbons", type = "similar" },
   { to = "kevin-morby", type = "similar" },
+  { to = "beirut", type = "similar", note = "linked while listening, 2026-09-14" },
+  { to = "peter-kernel", type = "similar", note = "linked while listening, 2026-09-14" },
 ]
